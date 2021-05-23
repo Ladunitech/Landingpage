@@ -1,0 +1,4 @@
+# Landingpage
+---
+permalink: /index.html
+---
